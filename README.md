@@ -1,4 +1,4 @@
-# Dynamic Path Planning
+# Dynamic Path Finding
  
 A from scratch implementation of the **Non-dominated Sorting Genetic Algorithm II (NSGA-II)** applied to path planning on a dynamic obstacle grid. The environment changes mid-run. The algorithm adapts.
  
